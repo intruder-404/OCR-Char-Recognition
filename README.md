@@ -7,6 +7,8 @@ Simple, minimal
 ## Feature Map 
 
 Canny- image reconditioning, proved better for this task
+
+
 ![Project Screenshot](canny.png)
 
 ## Example
